@@ -1,0 +1,7 @@
+O que é Programação : Programação é o ato de escrever instruções lógicas para que o computador execute tarefas.
+o que são algoritmos e fluxogramas: Algoritmo é uma sequência de passos lógicos para resolver um problema, e fluxograma é sua representação gráfica.
+o que são linguagens de programação: Linguagens de programação são formas padronizadas de comunicação usadas para escrever instruções que o computador consegue entender e executar.
+python: O Python é uma linguagem de programação de alto nível, interpretada e multiplataforma, criada por Guido van Rossum em 1991
+=====================================================================================================================================================================================
+
+Para executar o seu codigo em python, basta usar "python programa.py"
