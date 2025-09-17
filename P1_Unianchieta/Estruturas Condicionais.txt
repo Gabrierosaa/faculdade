@@ -1,0 +1,36 @@
+#Comando if
+Executa um bloco de código apenas se a condição for verdadeira.
+
+nota = 8
+if nota >= 7:
+    print("Aprovado!")
+
+#Comando if-else
+Permite executar um bloco se a condição for verdadeira, e outro se for falsa.
+
+idade = 15
+if idade >= 18:
+    print("Maior de idade")
+else:
+    print("Menor de idade")
+
+#Comando if-elif-else
+Usado para testar várias condições em sequência.
+
+nota = 6
+if nota >= 7:
+    print("Aprovado")
+elif nota >= 5:
+    print("Recuperação")
+else:
+    print("Reprovado")
+
+#Condições aninhadas
+Um if dentro de outro if.
+
+idade = 20
+if idade >= 18:
+    if idade < 21:
+        print("Maior de idade, mas ainda jovem.")
+    else:
+        print("Adulto.")

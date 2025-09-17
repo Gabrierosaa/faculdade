@@ -1,0 +1,30 @@
+Função input()
+Usada para ler dados digitados pelo usuário.
+Sempre retorna uma string.
+nome = input("Digite seu nome: ")
+print("Olá,", nome)
+
+Função print()
+Usada para exibir informações na tela.
+Pode imprimir múltiplos valores separados por vírgulas
+print("Python é", "legal!")
+
+Formatação básica de saída
+
+Concatenação simples
+nome = "Ana"
+print("Olá " + nome)
+
+Placeholders com format()
+idade = 20
+print("Eu tenho {} anos.".format(idade))
+
+f-strings (mais usado)
+altura = 1.75
+print(f"Minha altura é {altura}m")
+
+Conversão de tipos
+Como input() retorna string, muitas vezes precisamos converter:
+idade = int(input("Digite sua idade: "))     # string → int
+altura = float(input("Digite sua altura: ")) # string → float
+texto = str(123)        
