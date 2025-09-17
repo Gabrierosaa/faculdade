@@ -1,0 +1,31 @@
+Operadores aritméticos:
++    adição        →  5 + 3  = 8
+-    subtração     →  5 - 3  = 2
+*    multiplicação →  5 * 3  = 15
+/    divisão real  →  5 / 2  = 2.5
+//   divisão inteira → 5 // 2 = 2
+%    módulo (resto) → 5 % 2  = 1
+**   exponenciação  → 2 ** 3 = 8
+
+Operadores de comparação: 
+==    igual a       → 5 == 5 → True
+!=    diferente de  → 5 != 3 → True
+<     menor que     → 2 < 5  → True
+>     maior que     → 7 > 3  → True
+<=    menor ou igual→ 3 <= 3 → True
+>=    maior ou igual→ 4 >= 2 → True
+
+Operadores lógicos:
+and   True se ambos forem True
+or    True se pelo menos um for True
+not   inverte o valor lógico
+
+Precedência de operadores: 
+() → parênteses
+** (exponenciação)**
+*, /, //, % → multiplicação/divisão
++, - → adição/subtração
+Operadores de comparação (==, <, >, etc.)
+not
+and
+or

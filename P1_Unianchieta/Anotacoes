@@ -5,3 +5,23 @@ python: O Python é uma linguagem de programação de alto nível, interpretada 
 =====================================================================================================================================================================================
 
 Para executar o seu codigo em python, basta usar "python programa.py"
+
+Conceito de variáveis: Variáveis são espaços na memória usados para guardar valores que podem ser manipulados durante a execução de um programa
+
+Tipos básicos em Python:
+int → números inteiros (10, -5)
+float → números decimais (3.14, -2.5)
+str → textos/strings ("Olá", 'Python')
+bool → valores lógicos (True, False)
+
+Declaracao de variaveis:
+idade = 20       # int
+altura = 1.75    # float
+nome = "Ana"     # str
+ativo = True     # bool
+
+Regras para nomes de variáveis: 
+Devem começar com letra ou underscore (_).
+Podem conter letras, números e underscores, mas não podem começar com número.
+Não podem ser palavras reservadas do Python (ex: if, while, for).
+Usar nomes descritivos e seguir o padrão snake_case (ex: nota_final, media_aluno).
