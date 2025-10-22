@@ -39,6 +39,3 @@ else:
         print(" - Email inválido ou no formato incorreto.")
     if not telefonevalido:
         print(" - Telefone inválido (deve ter 11 dígitos).")
-    if not senhavalida:
-        print(" - Senha inválida (deve ter pelo menos 6 caracteres).")
-print("=" * 40)
